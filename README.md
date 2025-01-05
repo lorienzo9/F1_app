@@ -12,7 +12,7 @@ Serveral features are implemented with this simple application
 4. Or select "Compare Drivers" button. In this way, you can display driver lap data.
 
 ## Screen shots
-![Screenshot settings page.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/lorienzo9/F1_app/edit/main/images/f1_app_settings_page.png))
+![Screenshot settings page.]([https://github.com/lorienzo9/F1_app/blob/main/images/f1_app_settings_page.png])
 
 ## Future implementations:
 Next release will have new features:
