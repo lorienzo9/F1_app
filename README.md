@@ -1,7 +1,7 @@
 # F1 monitoring timings
 
 App created for monitoring F1 laps\
-This app can simply allow you to follow F1, knowing in real time lap times for selected users and to manage data after each session.\
+This app can simply allow you to follow F1, knowing in real time lap times for selected users and to manage data after each session.  
 
 ## Main features
 
