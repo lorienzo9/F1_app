@@ -16,8 +16,10 @@ First page used for initial configuration\
 ![Screenshot settings page.](https://github.com/lorienzo9/F1_app/blob/main/images/f1_app_settings_page.png)
 
 \
+
 New page with drivers listed in a new page\
 ![Screenshot settings page.](https://github.com/lorienzo9/F1_app/blob/main/images/display_drivers_selected.png)
+
 \
 
 Lap time plotted in a new graph\
