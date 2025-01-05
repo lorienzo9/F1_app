@@ -12,7 +12,11 @@ Serveral features are implemented with this simple application
 4. Or select "Compare Drivers" button. In this way, you can display driver lap data.
 
 ## Screen shots
+First page used for initial configuration
 ![Screenshot settings page.](https://github.com/lorienzo9/F1_app/blob/main/images/f1_app_settings_page.png)
+
+\
+New page with drivers listed in a new page
 
 ## Future implementations:
 Next release will have new features:
